@@ -45,3 +45,7 @@ A 43-tool MCP server that gives AI assistants full control over Discord – read
 [![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:leandremru@gmail.com)
 
 </div>
+
+---
+
+<sub>Profile picture: Maelle poster from the IGN Shop</sub>
