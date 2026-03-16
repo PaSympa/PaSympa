@@ -8,7 +8,7 @@
 
 ### About me
 
-I'm a Full Stack Developer based in France. I work across the entire stack — from designing backend APIs and microservices to building responsive frontends and cross-platform mobile apps. Lately I've been diving into agentic AI development, building tools that let AI assistants interact with real-world services.
+I'm a Full Stack Developer based in France. I work across the entire stack – from designing backend APIs and microservices to building responsive frontends and cross-platform mobile apps. Lately I've been diving into agentic AI development, building tools that let AI assistants interact with real-world services.
 
 ---
 
@@ -16,6 +16,8 @@ I'm a Full Stack Developer based in France. I work across the entire stack — f
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,nuxt,vue,python,java,kotlin,tailwind,postgres,mongodb,nodejs,docker,kubernetes,gitlab,azure,git&perline=9" />
+  <br/>
+  <img src="https://img.shields.io/badge/-Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white" />
 </p>
 
 ---
@@ -26,7 +28,7 @@ I'm a Full Stack Developer based in France. I work across the entire stack — f
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaSympa&repo=discord-mcp&theme=github_dark&hide_border=true" />
 </a>
 
-A 43-tool MCP server that gives AI assistants full control over Discord — reading and sending messages, managing channels, roles, permissions, members, and moderation. Built with TypeScript and discord.js.
+A 43-tool MCP server that gives AI assistants full control over Discord – reading and sending messages, managing channels, roles, permissions, members, and moderation. Built with TypeScript and discord.js.
 
 ---
 
