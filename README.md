@@ -1,14 +1,16 @@
 # Hey, I'm Léandre Moreau
 
-**Full Stack Developer** based in France — I build things from backend APIs to mobile apps and AI-powered tools.
+**Full Stack Developer** based in France — I build web apps, APIs, mobile apps and AI-powered tools.
 
 ### What I work with
 
-**Backend** — C# / ASP.NET Core, Java, Python, Microservices, CQRS, PostgreSQL
-**Frontend** — Angular, Nuxt / Vue.js, TypeScript, Tailwind
-**Mobile** — Kotlin Multiplatform, .NET MAUI
-**DevOps** — Docker, Kubernetes, GitLab CI/CD, Azure DevOps
-**AI** — MCP servers, agentic development
+| | |
+|---|---|
+| **Backend** | C# / ASP.NET Core, Java, Python, Microservices, CQRS, PostgreSQL |
+| **Frontend** | Angular, Nuxt / Vue.js, TypeScript, Tailwind |
+| **Mobile** | Kotlin Multiplatform, .NET MAUI |
+| **DevOps** | Docker, Kubernetes, GitLab CI/CD, Azure DevOps |
+| **AI** | MCP servers, agentic development |
 
 ### Featured project
 
@@ -16,4 +18,4 @@
 
 ### Get in touch
 
-[Email](mailto:leandremru@gmail.com) · [GitHub](https://github.com/PaSympa)
+[Email](mailto:leandremru@gmail.com) · [LinkedIn](https://www.linkedin.com/in/l%C3%A9andre-moreau-802a20251/) · [GitHub](https://github.com/PaSympa)
