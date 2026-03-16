@@ -1,12 +1,18 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+L%C3%A9andre+Moreau+%F0%9F%91%8B;Full+Stack+Developer+from+France+%F0%9F%87%AB%F0%9F%87%B7;Building+web+apps%2C+APIs+%26+AI+tools" alt="Typing SVG" />
+<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&random=false&width=600&lines=Hey%2C+I'm+L%C3%A9andre+Moreau;Full+Stack+Developer;Building+web+apps%2C+APIs+%26+AI+tools" alt="Typing SVG" />
 
 </div>
 
 ---
 
-### 🛠 Tech Stack
+### About me
+
+I'm a Full Stack Developer based in France. I work across the entire stack — from designing backend APIs and microservices to building responsive frontends and cross-platform mobile apps. Lately I've been diving into agentic AI development, building tools that let AI assistants interact with real-world services.
+
+---
+
+### Tech Stack
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,nuxt,vue,python,java,kotlin,tailwind,postgres,mongodb,nodejs,docker,kubernetes,gitlab,azure,git&perline=9" />
@@ -14,15 +20,17 @@
 
 ---
 
-### 📌 Featured Project
+### Featured Project
 
 <a href="https://github.com/PaSympa/discord-mcp">
   <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaSympa&repo=discord-mcp&theme=github_dark&hide_border=true" />
 </a>
 
+A 43-tool MCP server that gives AI assistants full control over Discord — reading and sending messages, managing channels, roles, permissions, members, and moderation. Built with TypeScript and discord.js.
+
 ---
 
-### 📊 GitHub Stats
+### GitHub Stats
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api?username=PaSympa&show_icons=true&theme=github_dark&hide_border=true&count_private=true" height="165" />
