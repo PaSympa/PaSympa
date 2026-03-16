@@ -16,8 +16,6 @@ I'm a Full Stack Developer based in France. I work across the entire stack – f
 
 <p>
   <img src="https://skillicons.dev/icons?i=cs,dotnet,angular,ts,nuxt,vue,python,java,kotlin,tailwind,postgres,mongodb,nodejs,docker,kubernetes,gitlab,azure,git&perline=9" />
-  <br/>
-  <img src="https://img.shields.io/badge/-Talend-FF6D70?style=for-the-badge&logo=talend&logoColor=white" />
 </p>
 
 ---
