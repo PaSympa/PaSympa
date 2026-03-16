@@ -48,4 +48,4 @@ A 43-tool MCP server that gives AI assistants full control over Discord – read
 
 ---
 
-<sub>Profile picture: Maelle poster from the IGN Shop</sub>
+<sub>Profile picture: [Expedition 33 – Alicia Print](https://store.ign.com/products/expedition-33-alicia-print-12x16) from the IGN Shop</sub>
