@@ -19,6 +19,11 @@ I'm **Léandre**, a Full Stack Developer from 🇫🇷 **France** — I build we
 ![Kubernetes](https://img.shields.io/badge/-Kubernetes-326CE5?style=flat-square&logo=kubernetes&logoColor=white)
 ![GitLab CI/CD](https://img.shields.io/badge/-GitLab_CI%2FCD-FC6D26?style=flat-square&logo=gitlab&logoColor=white)
 ![Azure DevOps](https://img.shields.io/badge/-Azure_DevOps-0078D7?style=flat-square&logo=azure-devops&logoColor=white)
+![MongoDB](https://img.shields.io/badge/-MongoDB-13aa52?style=flat-square&logo=mongodb&logoColor=white)
+![Talend](https://img.shields.io/badge/-Talend-FF6D70?style=flat-square&logo=talend&logoColor=white)
+![Node.js](https://img.shields.io/badge/-Node.js-43853d?style=flat-square&logo=node.js&logoColor=white)
+![Prettier](https://img.shields.io/badge/-Prettier-F7B93E?style=flat-square&logo=prettier&logoColor=white)
+![Insomnia](https://img.shields.io/badge/-Insomnia-5849BE?style=flat-square&logo=insomnia&logoColor=white)
 ![Git](https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white)
 
 ## Featured project
