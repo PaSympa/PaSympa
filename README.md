@@ -43,7 +43,7 @@ Works with **Claude Desktop**, **Claude Code**, **Cursor**, **VS Code Copilot**,
 
 <div align="center">
 
-<img src="https://github-readme-streak-stats.herokuapp.com?user=PaSympa&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Streak" />
+<img src="https://streak-stats.demolab.com?user=PaSympa&theme=github-dark-blue&hide_border=true&background=0D1117" alt="Streak" />
 
 <img src="https://github-readme-activity-graph.vercel.app/graph?username=PaSympa&theme=github-compact&hide_border=true&bg_color=0D1117&color=58A6FF&line=58A6FF&point=FFFFFF&area=true&area_color=58A6FF" alt="Activity graph" />
 
