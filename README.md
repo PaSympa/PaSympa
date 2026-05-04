@@ -1,6 +1,8 @@
 <div align="center">
 
-<img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=600&size=28&pause=1000&color=58A6FF&center=true&vCenter=true&width=600&lines=Hey%2C+I'm+L%C3%A9andre+Moreau;Full+Stack+Developer+%E2%80%A2+Agentic+AI;Building+web+apps%2C+APIs+%26+AI+tools" alt="Header" />
+# Léandre Moreau
+
+**Full Stack Developer · Agentic AI**
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9andre-moreau-802a20251/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leandremru@gmail.com)
@@ -12,9 +14,7 @@
 
 ### About me
 
-Full Stack Developer based in France. I work across the stack — backend APIs and microservices, responsive frontends, and cross-platform mobile apps.
-
-Lately I've been deep in **agentic AI** — building tools that let AI assistants interact with real-world services through the Model Context Protocol.
+Based in France. I work across the stack — backend APIs and microservices, responsive frontends, and cross-platform mobile apps. Lately I've been deep in **agentic AI**, building tools that let AI assistants interact with real-world services through the Model Context Protocol.
 
 ---
 
