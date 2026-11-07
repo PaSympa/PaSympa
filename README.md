@@ -44,7 +44,7 @@ npx @pasympa/discord-mcp
 
 **Real time social deduction game.** Werewolf style multiplayer: .NET 9 microservices, live game state pushed over SignalR, React and Next.js front end.
 
-**Edu-Kit.** A self service lab platform for schools: a teacher or a student gets a Linux VM from a template in one click, on a Proxmox cluster, with Keycloak single sign on, quotas and supervision. Nine month end of cycle project (DIIAGE 2026), delivered as an MVP. ASP.NET Core, EF Core, PostgreSQL, RabbitMQ, Angular, Proxmox VE, Kubernetes, Grafana.
+**Edu-Kit.** Nine month team project, delivered as an MVP for the DIIAGE 2026 end of cycle. ASP.NET Core, EF Core, PostgreSQL, Angular, Kubernetes.
 
 ## Tech arsenal
 
