@@ -16,16 +16,16 @@ Backend APIs, microservices and cross platform apps. Lately I build agentic tool
 
 ## Shipping
 
-<a href="https://github.com/PaSympa/discord-mcp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaSympa&repo=discord-mcp&theme=transparent&hide_border=true" alt="discord-mcp" />
-</a>
-
-**discord-mcp** connects Claude, Cursor, VS Code and any other MCP client to a Discord server through your own bot. 100 tools covering messages, channels, roles, permissions, members, forums, webhooks, scheduled events, invites, DMs and moderation.
+### [discord-mcp](https://github.com/PaSympa/discord-mcp)
 
 [![npm](https://img.shields.io/npm/v/@pasympa/discord-mcp?style=flat-square&logo=npm&label=npm&color=CB3837)](https://www.npmjs.com/package/@pasympa/discord-mcp)
 [![Downloads](https://img.shields.io/npm/dm/@pasympa/discord-mcp?style=flat-square&logo=npm&label=downloads&color=CB3837)](https://www.npmjs.com/package/@pasympa/discord-mcp)
 [![Stars](https://img.shields.io/github/stars/PaSympa/discord-mcp?style=flat-square&logo=github&label=stars&color=DFB317)](https://github.com/PaSympa/discord-mcp/stargazers)
+[![Forks](https://img.shields.io/github/forks/PaSympa/discord-mcp?style=flat-square&logo=github&label=forks&color=8957E5)](https://github.com/PaSympa/discord-mcp/forks)
+[![Last commit](https://img.shields.io/github/last-commit/PaSympa/discord-mcp?style=flat-square&logo=github&label=last%20commit&color=4493F8)](https://github.com/PaSympa/discord-mcp/commits)
 [![License](https://img.shields.io/github/license/PaSympa/discord-mcp?style=flat-square&color=007EC6)](https://github.com/PaSympa/discord-mcp/blob/main/LICENSE)
+
+Connects Claude, Cursor, VS Code and any other MCP client to a Discord server through your own bot. 100 tools covering messages, channels, roles, permissions, members, forums, webhooks, scheduled events, invites, DMs and moderation.
 
 ```bash
 npx @pasympa/discord-mcp
@@ -33,12 +33,10 @@ npx @pasympa/discord-mcp
 
 ## Also public
 
-<a href="https://github.com/PaSympa/rick-and-morty-locations-kmp">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaSympa&repo=rick-and-morty-locations-kmp&theme=transparent&hide_border=true" alt="rick-and-morty-locations-kmp" />
-</a>
-<a href="https://github.com/PaSympa/Eval_DI2P2P3">
-  <img src="https://github-readme-stats.vercel.app/api/pin/?username=PaSympa&repo=Eval_DI2P2P3&theme=transparent&hide_border=true" alt="Eval_DI2P2P3" />
-</a>
+| Repository | What it is | Stack |
+| :-- | :-- | :-- |
+| [rick-and-morty-locations-kmp](https://github.com/PaSympa/rick-and-morty-locations-kmp) | Android and Desktop from one codebase. Clean Architecture, MVI unidirectional flow, expect/actual. | Kotlin Multiplatform |
+| [Eval_DI2P2P3](https://github.com/PaSympa/Eval_DI2P2P3) | Full stack application built for a DIIAGE evaluation. | ASP.NET Core, Angular |
 
 ## Not public yet
 
@@ -62,9 +60,7 @@ npx @pasympa/discord-mcp
 
 <div align="center">
 
-<img src="https://github-readme-stats.vercel.app/api?username=PaSympa&show_icons=true&hide_border=true&include_all_commits=true&theme=transparent" alt="GitHub stats" />
-
-<img src="https://github-readme-activity-graph.vercel.app/graph?username=PaSympa&hide_border=true&bg_color=00000000&color=4493F8&line=4493F8&point=4493F8&area=true&radius=4" alt="Contribution graph" />
+[![Contribution streak](https://streak-stats.demolab.com?user=PaSympa&hide_border=true&background=00000000&ring=4493F8&fire=4493F8&currStreakLabel=4493F8&sideLabels=808080&dates=808080&stroke=808080)](https://github.com/PaSympa)
 
 </div>
 
