@@ -31,13 +31,6 @@ Connects Claude, Cursor, VS Code and any other MCP client to a Discord server th
 npx @pasympa/discord-mcp
 ```
 
-## Also public
-
-| Repository | What it is | Stack |
-| :-- | :-- | :-- |
-| [rick-and-morty-locations-kmp](https://github.com/PaSympa/rick-and-morty-locations-kmp) | Android and Desktop from one codebase. Clean Architecture, MVI unidirectional flow, expect/actual. | Kotlin Multiplatform |
-| [Eval_DI2P2P3](https://github.com/PaSympa/Eval_DI2P2P3) | Full stack application built for a DIIAGE evaluation. | ASP.NET Core, Angular |
-
 ## Not public yet
 
 **Real time social deduction game.** Werewolf style multiplayer: .NET 9 microservices, live game state pushed over SignalR, React and Next.js front end.
