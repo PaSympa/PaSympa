@@ -48,7 +48,7 @@ npx @pasympa/discord-mcp
 
 | | | |
 | :-- | :-- | :-- |
-| **Data** | ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=talend&logoColor=white) <img height="38" src="https://skillicons.dev/icons?i=postgres&perline=1" alt="PostgreSQL" /> | Talend ETL and ESB in production since 2023, Talend certified |
+| **Data** | ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=talend&logoColor=white) ![PostgreSQL](https://img.shields.io/badge/PostgreSQL-4169E1?style=flat-square&logo=postgresql&logoColor=white) ![SQL](https://img.shields.io/badge/SQL-003B57?style=flat-square) | Talend ETL and ESB in production since 2023, Talend certified |
 | **Languages** | <img height="38" src="https://skillicons.dev/icons?i=cs,ts,java,kotlin&perline=4" alt="C#, TypeScript, Java, Kotlin" /> | C# every day, TypeScript on the web side, Java under the Talend jobs |
 | **Backend** | <img height="38" src="https://skillicons.dev/icons?i=dotnet,nodejs&perline=2" alt="dotnet, Node.js" /> | ASP.NET Core, .NET microservices, REST, gRPC, SignalR |
 | **Frontend** | <img height="38" src="https://skillicons.dev/icons?i=angular,nuxt,tailwind&perline=3" alt="Angular, Nuxt, Tailwind" /> | Angular on .NET projects, Nuxt on side projects |
