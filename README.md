@@ -2,9 +2,9 @@
 
 # Léandre Moreau
 
-**Full Stack Developer · Agentic AI · France**
+**Data & Full Stack Developer · Talend, C#/.NET · Dijon, France**
 
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9andre-moreau-802a20251/)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/leandre-moreau/)
 [![Email](https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leandremru@gmail.com)
 [![Followers](https://img.shields.io/github/followers/PaSympa?style=flat-square&logo=github&label=Follow&color=181717)](https://github.com/PaSympa?tab=followers)
 
@@ -12,7 +12,7 @@
 
 ---
 
-Backend APIs, microservices and cross platform apps. Lately I build agentic tooling: servers that let AI assistants drive real systems through the Model Context Protocol.
+Data consultant by day: Talend ETL and ESB flows in production, three years of it and counting. Full stack the rest of the time, ASP.NET Core and Angular. Lately I build agentic tooling: servers that let AI assistants drive real systems through the Model Context Protocol.
 
 ## Shipping
 
@@ -48,26 +48,12 @@ npx @pasympa/discord-mcp
 
 | | | |
 | :-- | :-- | :-- |
-| **Languages** | <img height="38" src="https://skillicons.dev/icons?i=cs,ts,py,kotlin,java,bash&perline=6" alt="C#, TypeScript, Python, Kotlin, Java, Bash" /> | C# and TypeScript daily, Python for data work |
-| **Frontend** | <img height="38" src="https://skillicons.dev/icons?i=angular,nuxt,vue,tailwind,html,css&perline=6" alt="Angular, Nuxt, Vue, Tailwind, HTML, CSS" /> | Angular at work, Nuxt on side projects |
-| **Backend** | <img height="38" src="https://skillicons.dev/icons?i=dotnet,nodejs,fastapi,nestjs,graphql,nginx&perline=6" alt="dotnet, Node.js, FastAPI, NestJS, GraphQL, nginx" /> | ASP.NET Core, .NET microservices, SignalR |
-| **Data** | <img height="38" src="https://skillicons.dev/icons?i=postgres,mongodb,redis,sqlite,rabbitmq,kafka&perline=6" alt="PostgreSQL, MongoDB, Redis, SQLite, RabbitMQ, Kafka" /> | Plus ![Dagster](https://img.shields.io/badge/Dagster-4F43DD?style=flat-square) ![Snowflake](https://img.shields.io/badge/Snowflake-29B5E8?style=flat-square) ![Oracle](https://img.shields.io/badge/Oracle-C74634?style=flat-square) for orchestration and warehousing |
-| **Platform** | <img height="38" src="https://skillicons.dev/icons?i=docker,kubernetes,gitlab,azure,linux,git&perline=6" alt="Docker, Kubernetes, GitLab, Azure, Linux, Git" /> | Compose to Kubernetes, GitLab CI, infrastructure as code |
-| **Mobile** | <img height="38" src="https://skillicons.dev/icons?i=kotlin,androidstudio,gradle&perline=3" alt="Kotlin, Android Studio, Gradle" /> | Kotlin Multiplatform, Clean Architecture, MVI |
-| **Agentic AI** | ![MCP](https://img.shields.io/badge/MCP-0B0B0B?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square) ![discord.js](https://img.shields.io/badge/discord.js-5865F2?style=flat-square) | A 100 tool MCP server running in production |
-
-## Activity
-
-<div align="center">
-
-[![Contribution streak](https://streak-stats.demolab.com?user=PaSympa&hide_border=true&background=00000000&ring=4493F8&fire=4493F8&currStreakLabel=4493F8&sideLabels=808080&dates=808080&stroke=808080)](https://github.com/PaSympa)
-
-</div>
-
-## Reach me
-
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=flat-square&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/l%C3%A9andre-moreau-802a20251/)
-[![Email](https://img.shields.io/badge/leandremru%40gmail.com-EA4335?style=flat-square&logo=gmail&logoColor=white)](mailto:leandremru@gmail.com)
+| **Data** | ![Talend](https://img.shields.io/badge/Talend-FF6D70?style=flat-square&logo=talend&logoColor=white) <img height="38" src="https://skillicons.dev/icons?i=postgres&perline=1" alt="PostgreSQL" /> | Talend ETL and ESB in production since 2023, Talend certified |
+| **Languages** | <img height="38" src="https://skillicons.dev/icons?i=cs,ts,java,kotlin&perline=4" alt="C#, TypeScript, Java, Kotlin" /> | C# every day, TypeScript on the web side, Java under the Talend jobs |
+| **Backend** | <img height="38" src="https://skillicons.dev/icons?i=dotnet,nodejs&perline=2" alt="dotnet, Node.js" /> | ASP.NET Core, .NET microservices, REST, gRPC, SignalR |
+| **Frontend** | <img height="38" src="https://skillicons.dev/icons?i=angular,nuxt,tailwind&perline=3" alt="Angular, Nuxt, Tailwind" /> | Angular on .NET projects, Nuxt on side projects |
+| **Platform** | <img height="38" src="https://skillicons.dev/icons?i=docker,gitlab,linux,git&perline=4" alt="Docker, GitLab, Linux, Git" /> | Docker, GitLab CI and Azure DevOps pipelines |
+| **Agentic AI** | ![MCP](https://img.shields.io/badge/MCP-0B0B0B?style=flat-square) ![Claude Code](https://img.shields.io/badge/Claude%20Code-CC785C?style=flat-square) | A 100 tool MCP server running in production |
 
 ---
 
